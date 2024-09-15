@@ -1,0 +1,27 @@
+.card{
+    background-color: aquamarine;
+    height: 300px;
+    width: 200px;
+    padding :20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border-style: solid black;
+    border-width: 1px;
+  
+}
+
+.card-h1 {
+    color:mintcream;
+    -webkit-text-stroke: 1px navy;
+    -webkit-text-stroke-color: 1px rgb(0, 0, 0);
+
+
+}
+
+.card-p {
+    color:palegoldenrod;
+    -webkit-text-stroke: 1px navy;
+    -webkit-text-stroke-color: 1px rgb(0, 0, 0);
+
+}
